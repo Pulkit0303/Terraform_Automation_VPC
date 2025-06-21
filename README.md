@@ -6,7 +6,7 @@
 ![VPC](https://img.shields.io/badge/VPC-Networking%20on%20AWS-orange?logo=amazon-aws&logoColor=white&style=for-the-badge)
 
 <p align="center">
-  <img src="assets/my-vpc-diagram.png" alt="Custom VPC Architecture" width="800"/>
+  <img src="my-vpc-diagram.png" alt="Custom VPC Architecture" width="800"/>
 </p>
 
 > **Status**: ✅ Completed  
